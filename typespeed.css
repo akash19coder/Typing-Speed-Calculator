@@ -1,0 +1,43 @@
+body{
+    background-color: #3f729b;
+}
+.container{
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+.title{
+    margin-left: 250px;
+    font-family: 'Bungee', cursive;
+}
+textarea{
+    background-color: grey;
+    font-family: 'Bungee', cursive;
+    font-stretch:semi-expanded;
+    font-size: 12px;
+}
+
+ul{
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size:xx-large;
+}
+.btn{
+    margin-left: 350px;
+    margin-right: 297px;
+}
+button{
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #3b5998;
+    font-family: 'Bungee', cursive;
+    font-weight:bold;
+    font-size: medium;
+}
+.footer{
+    text-align: center;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
